@@ -55,6 +55,3 @@ banking-data-analytics/
 
 ---
 
-👉 Bro, this way your **resume version** stays short and recruiter-friendly, and the **GitHub description** looks professional with clear steps.
-
-Do you want me to also **write a full README.md** file for GitHub (with badges, screenshots, and explanations), so you can directly upload it?
